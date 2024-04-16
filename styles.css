@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body { 
+  color:  hsl(217, 54%, 11%);
+
+  
+    
+  }
+
+  #preparation {
+    color:  hsl(215, 32%, 27%);
+  }
+
+  
